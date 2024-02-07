@@ -1,0 +1,15 @@
+let name = "AQUAMAN";
+let school = "Valko's Gurukul";
+let grade = "1st";
+let section = "C";
+let roll = 1;
+let swimming = 93,telepathy = 100,combat = 89;
+console.log("--------------🧜🧜𝕽𝖊𝖕𝖔𝖗𝖙 𝖈𝖆𝖗𝖉🧜🧜--------------","\n");
+console.log("Name  --> ", name);
+console.log("School  --> ", school);
+console.log("Grade  --> ", grade);
+console.log("Section  --> ", section);
+console.log("Roll No  --> ", roll,"\n");
+console.log("-------------------📋𝓜𝓪𝓻𝓴𝓼📋------------------","\n");
+console.log("🏊Swimming🏊","    ","📡Telepathy📡","    ","⚔️ Combat⚔️");
+console.log("    ",swimming,"               ",telepathy,"             ",combat);
